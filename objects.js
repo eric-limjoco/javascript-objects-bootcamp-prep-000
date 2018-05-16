@@ -1,4 +1,4 @@
-playlist = {
+var playlist = {
   dashboard: 'Hands Down'
 }
 
